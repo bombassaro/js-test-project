@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Parque das flores",
+    "stars": 3,
+    "regularWeek": 110,
+    "premiumWeek": 80,
+    "regularWeekend": 90,
+    "premiumWeekend": 80
+  },
+  {
+    "name": "Jardim Botânico",
+    "stars": 4,
+    "regularWeek": 160,
+    "premiumWeek": 110,
+    "regularWeekend": 60,
+    "premiumWeekend": 50
+  },
+  {
+    "name": "Mar Atlântico",
+    "stars": 5,
+    "regularWeek": 220,
+    "premiumWeek": 100,
+    "regularWeekend": 150,
+    "premiumWeekend": 40
+  }
+]
